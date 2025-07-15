@@ -1,0 +1,7 @@
+name: EloKill
+version: 1.0
+main: com.github.tokyo1010.elokill.EloKill
+api-version: '1.21'
+authors: [Tokyo1010]
+description: EloKill Plugin
+website: https://github.com/Tokyo1010/EloKill
