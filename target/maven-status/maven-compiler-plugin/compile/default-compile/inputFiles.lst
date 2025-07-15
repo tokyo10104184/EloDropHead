@@ -1,2 +1,4 @@
 /app/src/main/java/com/github/tokyo1010/elokill/PlayerKillListener.java
 /app/src/main/java/com/github/tokyo1010/elokill/EloKill.java
+/app/src/main/java/com/github/tokyo1010/elokill/command/EloCommand.java
+/app/src/main/java/com/github/tokyo1010/elokill/command/LeaderboardCommand.java
