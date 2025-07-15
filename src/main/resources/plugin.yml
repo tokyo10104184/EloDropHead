@@ -5,3 +5,10 @@ api-version: '1.21'
 authors: [Tokyo1010]
 description: EloKill Plugin
 website: https://github.com/Tokyo1010/EloKill
+commands:
+  leaderboard:
+    description: Shows the Elo leaderboard.
+    usage: /leaderboard
+  elo:
+    description: Shows your or another player's Elo.
+    usage: /elo [player]

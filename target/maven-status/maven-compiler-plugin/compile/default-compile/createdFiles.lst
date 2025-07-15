@@ -1,2 +1,4 @@
+com/github/tokyo1010/elokill/command/EloCommand.class
+com/github/tokyo1010/elokill/command/LeaderboardCommand.class
 com/github/tokyo1010/elokill/EloKill.class
 com/github/tokyo1010/elokill/PlayerKillListener.class
