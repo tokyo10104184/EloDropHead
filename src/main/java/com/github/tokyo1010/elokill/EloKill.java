@@ -14,7 +14,9 @@ public final class EloKill extends JavaPlugin {
 
     @Override
     public void onEnable() {
+        getLogger().info("EloKill plugin is enabled!");
         // Plugin startup logic
+        getDataFolder().mkdirs();
         eloFile = new File(getDataFolder(), "elo.dat");
         loadEloRatings();
         getServer().getPluginManager().registerEvents(new PlayerKillListener(this), this);
